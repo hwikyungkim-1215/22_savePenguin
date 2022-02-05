@@ -24,8 +24,6 @@
   <H2> 🐧 세부 기능 </H2>
 
   <p align="center">   
-
-      <table>
           <tr>
               <td>
                   <img width="474" alt="1" src="https://user-images.githubusercontent.com/56347876/152633314-a30e6824-3072-4aeb-bdac-16539b8a668e.png">
@@ -67,7 +65,6 @@
                   <img width="196" alt="7" src="https://user-images.githubusercontent.com/56347876/152633345-2e59919f-dc67-4d26-9761-b4ce3b2e5e62.png">
               </td>
           </tr>
-      </table>
   </p>
 
 
