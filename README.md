@@ -71,3 +71,10 @@ https://drive.google.com/file/d/1Lz0s0DlTzIAYjMSA5o0binErW1a8hM7X/view?usp=shari
 
 savePenguin 어플 (매장용) - QR 스캐너 기능
 https://drive.google.com/file/d/1iaNkM-93HzAWRpk1ugoKWjfBN0r9e0CH/view?usp=sharing
+
+<H2> 🐧 역할 </H2>
+
+|[:rabbit:김휘경](https://github.com/orgs/savePenguin/people/hwikyungkim-1215)|[:tiger:채희선](https://github.com/chaehuiseon)|[:penguin:조범수](https://github.com/orgs/savePenguin/people/jobum97)|
+|:---:|:---:|:---:|
+|담당|담당|담당|
+|서버 개발|서버 개발|안드로이드 개발|
