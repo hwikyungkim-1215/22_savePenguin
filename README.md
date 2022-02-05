@@ -22,16 +22,58 @@
 
   
   <H2> 🐧 세부 기능 </H2>
-    
-<p align="center">   
-<img width="474" alt="1" src="https://user-images.githubusercontent.com/56347876/152633314-a30e6824-3072-4aeb-bdac-16539b8a668e.png">
-<img width="477" alt="2" src="https://user-images.githubusercontent.com/56347876/152633325-97f1176f-0a25-4845-8361-4d42f94daa19.png">
-<img width="477" alt="3" src="https://user-images.githubusercontent.com/56347876/152633332-28a8e4d8-a908-4512-9f40-55a94849b17a.png">
-<img width="392" alt="4" src="https://user-images.githubusercontent.com/56347876/152633333-97f2bb8f-1797-409e-a359-94b68caca18f.png">
-<img width="392" alt="5" src="https://user-images.githubusercontent.com/56347876/152633336-8497d226-f295-4eed-abb9-0ea97bd47289.png">
-<img width="386" alt="6" src="https://user-images.githubusercontent.com/56347876/152633343-dff51631-2b7c-460f-8ec8-1e561865e318.png">
-<img width="196" alt="7" src="https://user-images.githubusercontent.com/56347876/152633345-2e59919f-dc67-4d26-9761-b4ce3b2e5e62.png">
-</p>
+    <!DOCTYPE html PUBLIC>
+<html>
+
+    <body>
+        <p align="center">   
+
+            <table>
+                <tr>
+                    <td>
+                        <img width="474" alt="1" src="https://user-images.githubusercontent.com/56347876/152633314-a30e6824-3072-4aeb-bdac-16539b8a668e.png">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <img width="477" alt="2" src="https://user-images.githubusercontent.com/56347876/152633325-97f1176f-0a25-4845-8361-4d42f94daa19.png">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <img width="477" alt="3" src="https://user-images.githubusercontent.com/56347876/152633332-28a8e4d8-a908-4512-9f40-55a94849b17a.png">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <img width="392" alt="4" src="https://user-images.githubusercontent.com/56347876/152633333-97f2bb8f-1797-409e-a359-94b68caca18f.png">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <img width="392" alt="5" src="https://user-images.githubusercontent.com/56347876/152633336-8497d226-f295-4eed-abb9-0ea97bd47289.png">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <img width="386" alt="6" src="https://user-images.githubusercontent.com/56347876/152633343-dff51631-2b7c-460f-8ec8-1e561865e318.png">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <img width="196" alt="7" src="https://user-images.githubusercontent.com/56347876/152633345-2e59919f-dc67-4d26-9761-b4ce3b2e5e62.png">
+                    </td>
+                </tr>
+            </table>
+        </p>
+    </body>
+</html>
 
 
 <H2> 🐧 사용한 google 기술 </H2>
