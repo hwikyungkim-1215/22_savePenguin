@@ -51,7 +51,7 @@ zxing( 구글에서 제공하는 오픈소스로 Zebra Crossing의 약자)을 �
 
 ||사용 언어 및 라이브러리|Tools|
 |:---:|:---:|:---:|
-|Android|Retrofit2,gson, junit, volley |AndroidStudio|
+|Android|java, Retrofit2, gson, junit, volley |AndroidStudio|
 |Server|SpringBoot, Spring Data JPA|Eclipse STS4|
 
 <H2> 🐧 System Architecture </H2>
