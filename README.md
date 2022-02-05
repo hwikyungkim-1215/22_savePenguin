@@ -50,5 +50,5 @@ https://github.com/gdsckoreahackathon2022/22_savePenguin/blob/main/GDSCHack_22te
 <H2> 🐧 Demo 영상 </H2>
 https://www.youtube.com/embed/Jg0C5mlqN8w
 
-<iframe width="914" height="514" src="https://www.youtube.com/embed/Jg0C5mlqN8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jg0C5mlqN8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
