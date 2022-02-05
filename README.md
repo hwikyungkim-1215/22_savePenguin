@@ -46,6 +46,16 @@ zxing( 구글에서 제공하는 오픈소스로 Zebra Crossing의 약자)을 �
 
 참고링크: https://github.com/zxing/zxing
 
+<H2> 🐧 기술스택 </H2>
+
+||사용 언어 및 라이브러리|Tools|
+|:---:|:---:|:---:|
+|Android|Retrofit2,gson, junit, volley |AndroidStudio|
+|Server|SpringBoot, Spring Data JPA|Eclipse STS4|
+
+<H2> 🐧 System Architecture </H2>
+<img width="629" alt="아키텍처" src="https://user-images.githubusercontent.com/56347876/152634181-6674c4e7-7204-4751-9e5e-7c28a45f15af.png">
+
 
 <H2> 🐧 savePenguin 제안서 </H2>
 https://github.com/gdsckoreahackathon2022/22_savePenguin/blob/main/GDSCHack_22team_savePenguin.pdf
