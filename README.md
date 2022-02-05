@@ -87,7 +87,6 @@ https://drive.google.com/file/d/1iaNkM-93HzAWRpk1ugoKWjfBN0r9e0CH/view?usp=shari
 |![휘경](https://user-images.githubusercontent.com/56347876/152635383-5f9a26a5-cb92-45b0-8645-ad031d2e6805.png)|![희선언니](https://user-images.githubusercontent.com/56347876/152635382-eb3ae567-0b09-449f-878f-756970972c37.png)|![범수오빠](https://user-images.githubusercontent.com/56347876/152635384-40f16d90-2506-48eb-bee7-7cdc26113954.png)|
 | ------ | ---------------------------------------------- | ------------------------------------------------------ |
 |[:rabbit:김휘경](https://github.com/orgs/savePenguin/people/hwikyungkim-1215)|[:tiger:채희선](https://github.com/chaehuiseon)|[:penguin:조범수](https://github.com/orgs/savePenguin/people/jobum97)|
-|:---:|:---:|:---:|
 |담당|담당|담당|
 |서버 개발|서버 개발|안드로이드 개발|
 
