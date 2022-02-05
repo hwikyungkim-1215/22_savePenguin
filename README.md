@@ -36,6 +36,8 @@
 ![6](https://user-images.githubusercontent.com/56347876/152633343-dff51631-2b7c-460f-8ec8-1e561865e318.png)
 
 ![7](https://user-images.githubusercontent.com/56347876/152633345-2e59919f-dc67-4d26-9761-b4ce3b2e5e62.png)
+
+
 <H2> 🐧 사용한 google 기술 </H2>
 
 zxing( 구글에서 제공하는 오픈소스로 Zebra Crossing의 약자)을 사용하여 등록한 텀블러 또는 리유저블 컵의 qr코드 생성 및 seller의 qr리더기 개발.
