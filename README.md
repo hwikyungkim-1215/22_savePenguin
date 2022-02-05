@@ -90,5 +90,4 @@ https://drive.google.com/file/d/1iaNkM-93HzAWRpk1ugoKWjfBN0r9e0CH/view?usp=shari
 |:---:|:---:|:---:|
 |담당|담당|담당|
 |서버 개발|서버 개발|안드로이드 개발|
-|담당|담당|담당|
-|서버 개발|서버 개발|안드로이드 개발|
+
