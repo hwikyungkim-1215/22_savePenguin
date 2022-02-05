@@ -63,3 +63,9 @@ https://github.com/gdsckoreahackathon2022/22_savePenguin/blob/main/GDSCHack_22te
 
 <H2> 🐧 Demo 영상 </H2>
 https://www.youtube.com/embed/Jg0C5mlqN8w
+
+<H2> 🐧 어플 다운로드 링크 </H2>
+savePenguin 어플 (유저용)
+https://drive.google.com/file/d/1Lz0s0DlTzIAYjMSA5o0binErW1a8hM7X/view?usp=sharing
+savePenguin 어플 (매장용) - QR 스캐너 기능
+https://drive.google.com/file/d/1iaNkM-93HzAWRpk1ugoKWjfBN0r9e0CH/view?usp=sharing
