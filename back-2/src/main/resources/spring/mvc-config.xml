@@ -1,0 +1,2 @@
+<!-- [Mapper.xml 파일 빈객체로 등록 (=@Repository)] -->
+<mybatis-spring:scan base-package="com.cos.penguin.repository"/>
