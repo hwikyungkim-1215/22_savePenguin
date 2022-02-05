@@ -22,7 +22,7 @@
 
   
   <H2> 🐧 세부 기능 </H2>
-
+<body>
   <p align="center">   
           <tr>
               <td>
@@ -66,7 +66,7 @@
               </td>
           </tr>
   </p>
-
+<body/>
 
 <H2> 🐧 사용한 google 기술 </H2>
 
