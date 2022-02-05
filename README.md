@@ -24,6 +24,18 @@
 
   
   <H2> 🐧 세부 기능 </H2>
+  | ![1](https://user-images.githubusercontent.com/56347876/152633314-a30e6824-3072-4aeb-bdac-16539b8a668e.png)
+ | ![2](https://user-images.githubusercontent.com/56347876/152633325-97f1176f-0a25-4845-8361-4d42f94daa19.png)
+ | ![3](https://user-images.githubusercontent.com/56347876/152633332-28a8e4d8-a908-4512-9f40-55a94849b17a.png)
+ |
+| --- | --- | --- |
+| ![4](https://user-images.githubusercontent.com/56347876/152633333-97f2bb8f-1797-409e-a359-94b68caca18f.png)
+ | ![5](https://user-images.githubusercontent.com/56347876/152633336-8497d226-f295-4eed-abb9-0ea97bd47289.png)
+ |![6](https://user-images.githubusercontent.com/56347876/152633343-dff51631-2b7c-460f-8ec8-1e561865e318.png)
+  |
+| ![7](https://user-images.githubusercontent.com/56347876/152633345-2e59919f-dc67-4d26-9761-b4ce3b2e5e62.png)
+ |  |  |
+|  |  |  |
   
 ![1](https://user-images.githubusercontent.com/56347876/152633314-a30e6824-3072-4aeb-bdac-16539b8a668e.png)
 
