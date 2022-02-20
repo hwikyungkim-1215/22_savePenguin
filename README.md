@@ -1,4 +1,4 @@
-<H1>🐧 savePenguin 서비스 </H1>
+<H1>🐧 savePenguin서비스 </H1>
 
 <p align="center">   
 <img width="286" alt="savePenguin" src="https://user-images.githubusercontent.com/56347876/152633349-98cf961e-08d0-4ecb-aa4c-44e5c38b47df.png">
